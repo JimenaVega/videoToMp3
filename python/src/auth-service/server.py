@@ -7,7 +7,7 @@ from flask_mysqldb import MySQL
 INVALID_CREDENTIALS = "Invalid credentials"
 MISSING_CREDENTIALS = "Missing credentials"
 NOT_AUTHORIZED = "Not authorized"
-
+#TODO: Please delete this comment, this is just testing
 # Server para pegarle a la BD
 
 server = Flask(__name__)
